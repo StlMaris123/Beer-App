@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Testing</string>
+    <string name="find_beer">Find Beer!</string>
+    <string name="brands"></string>
 </resources>
