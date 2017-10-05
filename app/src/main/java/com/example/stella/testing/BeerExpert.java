@@ -15,6 +15,7 @@ public class BeerExpert {
         }
         else{
             brands.add("Jail Pale Ale");
+            brands.add("Gout Stout");
         }
         return brands;
     }

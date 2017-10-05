@@ -3,9 +3,9 @@
     <string name="find_beer">Find Beer!</string>
     <string name="brands"></string>
     <string-array name="beer_colors">
-        <item>red</item>
-        <item>blue</item>
-        <item>green</item>
-        <item>black</item>
+        <item>light</item>
+        <item>amber</item>
+        <item>brown</item>
+        <item>dark</item>
     </string-array>
 </resources>
